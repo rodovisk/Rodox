@@ -5,3 +5,4 @@
 #tenho uma namorada
 #sou baterista
 #tenho 2 namorados
+#gay
