@@ -4,4 +4,4 @@
 #trabalho com tecnologia
 #tenho uma namorada
 #sou baterista
-#gay
+#tenho 2 namorados
