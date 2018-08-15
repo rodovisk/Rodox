@@ -16,4 +16,4 @@ Teste
 Após teremos feito a ligação dos componentes de hardware, montamos o chassi e aplicamos o codigo programado em C.
 
 Operação
-Após termos feito as instalações necessessárias, testamos o robo onde funcionou perfeitamente.
+Após termos feito as instalações necessessárias, a gente testou o robo onde funcionou perfeitamente.
