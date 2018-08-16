@@ -1,7 +1,7 @@
-Analise 
+1:Analise 
 Estamos criando um robo para que ele possa participar de uma batalha que é organizada na faculdade impacta pela materia IOT.
 
-Design
+2:Design
 O Robo é composto pelos seguintes componentes:
 placa arduino
 chassi
@@ -9,11 +9,11 @@ motor independente
 receptor bluetooth
 baterias
 
-Codificação
+3:Codificação
 A codificação que iremos utilizar para realizara programação do robo é C
 
-Teste
+4:Teste
 Após teremos feito a ligação dos componentes de hardware, montamos o chassi e aplicamos o codigo programado em C.
 
-Operação
+5:Operação
 Após termos feito as instalações necessessárias, a gente testou o robo onde funcionou perfeitamente.
