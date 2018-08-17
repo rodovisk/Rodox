@@ -2,7 +2,7 @@
 Analise 
 Estamos criando um robo para que ele possa participar de uma batalha que é organizada na faculdade impacta pela materia IOT.
 
-Design
+Design (Thiago)
 O Robo é composto pelos seguintes componentes:
 placa arduino
 chassi
