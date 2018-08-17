@@ -1,14 +1,33 @@
 
+PROJETO ROBO ARDUINO (Camila Hauschild 1800874)
+
+
+1:Analise 
+Estamos criando um robo para que ele possa participar de uma batalha que é organizada na faculdade impacta pela materia IOT.
+
+2:Design (Thiago Porfirio 1800680)
+
 Analise 
 Estamos criando um robo para que ele possa participar de uma batalha que é organizada na faculdade impacta pela materia IOT.
 
 Design (Thiago)
+
 O Robo é composto pelos seguintes componentes:
 placa arduino
 chassi
 motor independente
 receptor bluetooth
 baterias
+
+
+3:Codificação (Augusto ferreria 1800788 )
+A codificação que iremos utilizar para realizara programação do robo é C
+
+4:Teste
+Após teremos feito a ligação dos componentes de hardware, montamos o chassi e aplicamos o codigo programado em C.
+
+5:Operação
+Após termos feito as instalações necessessárias, nós testamos(Camila Hauschild 1800874) o robo onde funcionou perfeitamente.
 
 Codificação
 A codificação que iremos utilizar para realizara programação do robo é C
@@ -18,3 +37,4 @@ Após teremos feito a ligação dos componentes de hardware, montamos o chassi e
 
 Operação
 Após termos feito as instalações necessessárias, testamos o robo onde funcionou perfeitamente.
+

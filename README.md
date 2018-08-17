@@ -1,5 +1,3 @@
-
-
 Analise 
 Estamos criando um robo para que ele possa participar de uma batalha que é organizada na faculdade impacta pela materia IOT.
 
