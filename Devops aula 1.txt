@@ -12,7 +12,7 @@ motor independente
 receptor bluetooth
 baterias
 
-3:Codificação
+3:Codificação (Augusto ferreria 1800788 )
 A codificação que iremos utilizar para realizara programação do robo é C
 
 4:Teste
