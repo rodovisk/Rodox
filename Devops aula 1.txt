@@ -23,7 +23,7 @@ baterias
 3:Codificação (Augusto ferreria 1800788 )
 A codificação que iremos utilizar para realizara programação do robo é C
 
-4:Teste
+4:Teste(augusto)
 Após teremos feito a ligação dos componentes de hardware, montamos o chassi e aplicamos o codigo programado em C.
 
 5:Operação
