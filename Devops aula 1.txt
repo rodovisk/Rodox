@@ -2,7 +2,7 @@
 PROJETO ROBO ARDUINO (Camila Hauschild 1800874)
 
 
-1:Analise 
+1:Analise (Camila Hauschild 1800874)
 Estamos criando um robo para que ele possa participar de uma batalha que é organizada na faculdade impacta pela materia IOT.
 
 2:Design (Thiago Porfirio 1800680)
